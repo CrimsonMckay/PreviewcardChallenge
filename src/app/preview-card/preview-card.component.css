@@ -1,0 +1,26 @@
+.card {
+  height: 30rem;
+  width: 19rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 40px 44px;
+}
+.content > h3 {
+  font-family: "Big Shoulders Display", sans-serif;
+  font-weight: 700;
+  color: white;
+  font-size: xx-large;
+  margin-bottom: 33px;
+}
+
+.content {
+  height: 14rem;
+  line-height: 26px;
+}
+.content > p {
+  font-family: "Lexend Deca", sans-serif;
+  font-weight: 400;
+  color: white;
+  font-size: 15px;
+}

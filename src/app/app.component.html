@@ -1,0 +1,10 @@
+<main class="main">
+  <div class="content">
+    <app-preview-card
+      *ngFor="let cardinfo of cardData"
+      [cardList]="cardinfo"
+    ></app-preview-card>
+  </div>
+</main>
+
+<router-outlet />

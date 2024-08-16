@@ -1,0 +1,10 @@
+button {
+  background: transparent;
+  padding: 10px 20px;
+  border: 2px solid white;
+  border-radius: 25px;
+  font-family: "Lexend Deca", sans-serif;
+  font-weight: 400;
+  color: white;
+  font-size: 15px;
+}
