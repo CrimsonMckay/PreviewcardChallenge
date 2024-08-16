@@ -6,7 +6,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 The "3-Column Preview Card Component" challenge involves creating a responsive, visually appealing card layout with three columns. Each card displays content such as images, titles, and descriptions in a structured format.
 
-![Preview of the 3-Column Card Component](path/to/your/image.png)
+![Preview of the 3-Column Card Component]https://res.cloudinary.com/dz209s6jk/image/upload/v1617293350/Challenges/ofrkupd8a9wh1wenvr8c.jpg
 
 ## Features
 
